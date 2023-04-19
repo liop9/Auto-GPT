@@ -1,0 +1,6 @@
+To create and run the Telegram signals bot:
+1. Sign up for a Telegram account.
+2. Create a new bot using @BotFather.
+3. Obtain the bot's access token and save it securely.
+4. Write and deploy the bot's code using a programming language like Python.
+5. Set up the bot's configuration and test it before deploying to users.

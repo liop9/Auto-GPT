@@ -1,0 +1,1 @@
+["Reuters - stock market section: https://www.reuters.com/finance/markets/stock-market","Investopedia - trading section: https://www.investopedia.com/trading-4427701","Binary Options - news section: https://www.binaryoptions.net/news/","CNBC - stock market section: https://www.cnbc.com/stock-market/","Yahoo Finance - trading section: https://finance.yahoo.com/topic/trading"]

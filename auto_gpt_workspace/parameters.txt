@@ -1,0 +1,3 @@
+currency_pair = 'USD/EUR'
+stop_loss = 1.1842
+take_profit = 1.2028

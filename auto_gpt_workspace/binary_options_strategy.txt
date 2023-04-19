@@ -1,0 +1,4 @@
+Preliminary strategy for the binary options signals bot: 
+- Use a mix of fundamental and technical analysis to generate signals.
+- Focus on major currency pairs and use chart patterns, price action, and moving averages to predict trends.
+- Implement strict risk management to ensure losses are kept at a minimum.

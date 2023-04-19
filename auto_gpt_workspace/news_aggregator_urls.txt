@@ -1,0 +1,7 @@
+Some of the URLs for the most useful news aggregator services we have identified are: 
+
+- MarketWatch News Viewer: https://www.marketwatch.com/tools/newsviewer 
+- Yahoo! Finance News: https://finance.yahoo.com/news/ 
+- Reuters News: https://www.reuters.com/news/archive 
+- CNBC: https://www.cnbc.com/world/?region=world 
+- Investing.com: https://www.investing.com/news/economy

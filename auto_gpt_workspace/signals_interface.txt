@@ -1,0 +1,6 @@
+Welcome to our binary options signals interface. Follow the prompts below to set up the bot and start receiving trading signals.
+1. Connect to the selected platform's API
+2. Set trading parameters, including asset, time frame, and investment amount
+3. Start the signals bot to begin trading
+4. Monitor performance and adjust trading strategy
+Contact us for support or questions. Thank you for using our binary options signals bot!
